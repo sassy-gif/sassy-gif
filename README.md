@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 - GitHub: https://github.com/sassy-gif
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-master-ryo-ma.vercel.app/api?username=sassy-gif&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sassy-gif&show_icons=true&count_private=true)
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sassy-gif&theme=tokyonight)
