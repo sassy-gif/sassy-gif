@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sassy-gif&theme=tokyonight)
 ## 💡 Most Used Languages
 
-![Top Languages](https://github-readme-stats-git-master-ryo-ma.vercel.app/api/top-langs/?username=sassy-gif&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sassy-gif&layout=compact&langs_count=8)
 
 
 
