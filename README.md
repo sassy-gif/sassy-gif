@@ -72,15 +72,15 @@ Here are some ideas to get you started:
 
   ## 📫 Connect With Me
 - GitHub: https://github.com/sassy-gif
-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sassy-gif&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-master-ryo-ma.vercel.app/api?username=sassy-gif&show_icons=true)
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sassy-gif&theme=tokyonight)
 ## 💡 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sassy-gif&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-master-ryo-ma.vercel.app/api/top-langs/?username=sassy-gif&layout=compact)
 
 
 
